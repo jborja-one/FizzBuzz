@@ -1,0 +1,14 @@
+/Users/borjas/Documents/True Coders/Repos/FizzBuzz/FizzBuzz/bin/Debug/net8.0/FizzBuzz
+/Users/borjas/Documents/True Coders/Repos/FizzBuzz/FizzBuzz/bin/Debug/net8.0/FizzBuzz.deps.json
+/Users/borjas/Documents/True Coders/Repos/FizzBuzz/FizzBuzz/bin/Debug/net8.0/FizzBuzz.runtimeconfig.json
+/Users/borjas/Documents/True Coders/Repos/FizzBuzz/FizzBuzz/bin/Debug/net8.0/FizzBuzz.dll
+/Users/borjas/Documents/True Coders/Repos/FizzBuzz/FizzBuzz/bin/Debug/net8.0/FizzBuzz.pdb
+/Users/borjas/Documents/True Coders/Repos/FizzBuzz/FizzBuzz/obj/Debug/net8.0/FizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+/Users/borjas/Documents/True Coders/Repos/FizzBuzz/FizzBuzz/obj/Debug/net8.0/FizzBuzz.AssemblyInfoInputs.cache
+/Users/borjas/Documents/True Coders/Repos/FizzBuzz/FizzBuzz/obj/Debug/net8.0/FizzBuzz.AssemblyInfo.cs
+/Users/borjas/Documents/True Coders/Repos/FizzBuzz/FizzBuzz/obj/Debug/net8.0/FizzBuzz.csproj.CoreCompileInputs.cache
+/Users/borjas/Documents/True Coders/Repos/FizzBuzz/FizzBuzz/obj/Debug/net8.0/FizzBuzz.dll
+/Users/borjas/Documents/True Coders/Repos/FizzBuzz/FizzBuzz/obj/Debug/net8.0/refint/FizzBuzz.dll
+/Users/borjas/Documents/True Coders/Repos/FizzBuzz/FizzBuzz/obj/Debug/net8.0/FizzBuzz.pdb
+/Users/borjas/Documents/True Coders/Repos/FizzBuzz/FizzBuzz/obj/Debug/net8.0/FizzBuzz.genruntimeconfig.cache
+/Users/borjas/Documents/True Coders/Repos/FizzBuzz/FizzBuzz/obj/Debug/net8.0/ref/FizzBuzz.dll
